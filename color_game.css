@@ -1,23 +1,28 @@
 body {
-    background-color: #232323;
+	background-color: #232323;
 }
 
 .square {
-    width: 30%;
-    background: purple;
-    padding-bottom: 30%;
-    float: left;
-    margin: 1.66%;
-    border-radius: 10%;
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 10%;
+}
+
+h1 {
+	color: white;
 }
 
 #container {
-    margin: 0 auto;
-    max-width: 600px;
-    text-align: center;
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
 }
 
-span {
-    color: white;
+#stripe {
+	background: white;
+	height: 30px;
+	text-align: center;
 }
-
